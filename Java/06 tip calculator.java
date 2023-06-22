@@ -7,3 +7,5 @@ public class Program {
         System.out.println(price * .15);
     }
 }
+
+// get user input, multiply by 15%
