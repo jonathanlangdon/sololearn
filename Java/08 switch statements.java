@@ -19,3 +19,5 @@ public class Program {
     System.out.println(number);
     }
 }
+
+//showing how to use a switch statement... making sure to include break statements
