@@ -11,3 +11,5 @@ class Demo{
     System.out.println(fact);
 }
 }
+
+// for loops
