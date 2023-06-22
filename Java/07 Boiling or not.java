@@ -11,3 +11,5 @@ public class Program {
     }
   }
 }
+
+// showing how to use if statements
