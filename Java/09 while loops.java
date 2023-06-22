@@ -14,3 +14,5 @@ public class Program {
   }
 
 }
+
+// while loop demonstrated 
