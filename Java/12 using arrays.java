@@ -13,3 +13,5 @@ public class Program {
   }
 
 }
+
+// how to create arrays in Java... then allowing user input to access it
