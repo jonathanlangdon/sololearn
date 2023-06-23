@@ -10,3 +10,5 @@ class Loading {
     System.out.print("Loading");
   }
 }
+
+// creating a new class
