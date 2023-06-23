@@ -19,3 +19,5 @@ public class Program {
     }
 
 }
+
+// creating and accessing a 2-d array
