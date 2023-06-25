@@ -37,3 +37,5 @@ class Ticket {
        return seat;
    }
 }
+
+//example of constructors
