@@ -40,3 +40,5 @@ class Cat extends Animal {
       System.out.println("Cat is playing");
   }
 }
+
+// Interfaces provide a way to achieve abstraction, multiple inheritance, and polymorphism in Java.
