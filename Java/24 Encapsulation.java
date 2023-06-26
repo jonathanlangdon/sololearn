@@ -22,3 +22,5 @@ class Pupil{
         return age;
     }
 }
+
+//example of encapsulation 

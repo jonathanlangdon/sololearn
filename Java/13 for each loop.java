@@ -8,3 +8,5 @@ public class Program {
     System.out.println(sum / revenue.length);
   }
 }
+
+//using a for-each loop

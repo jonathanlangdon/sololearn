@@ -29,3 +29,5 @@ class Customer {
        System.out.println("Room number: " + roomNumber);
    }
 }
+
+//example of creating attributes and methods in a class

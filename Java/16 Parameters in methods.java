@@ -10,3 +10,5 @@ public class Program {
     convert(num);
   }
 }
+
+//using a parameter [a string in this case] in a method

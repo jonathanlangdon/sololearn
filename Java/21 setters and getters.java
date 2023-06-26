@@ -31,3 +31,5 @@ class Student {
        }
    }
 }
+
+// example of setters and getters 

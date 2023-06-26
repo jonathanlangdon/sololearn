@@ -10,3 +10,5 @@ public class Program {
     System.out.println(fahr(c));
   }
 }
+
+// an example of returning a double with a method instead of just void

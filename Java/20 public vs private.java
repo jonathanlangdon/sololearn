@@ -13,3 +13,5 @@ class Country{
     public String name;
     public String capital;
 }
+
+//showing how public means its accessible outside the class/method

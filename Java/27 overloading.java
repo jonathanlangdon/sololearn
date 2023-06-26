@@ -17,3 +17,5 @@ public class Main {
         return x * 2;
     }
 }
+
+// with overloading, you can allow a method to take more than one type of parameter

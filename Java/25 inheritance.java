@@ -35,3 +35,5 @@ public class Main {
        pro1.changeResolution();
    }
 }
+
+// shows how a class can build on an already built class

@@ -9,3 +9,5 @@ class Main {
     System.out.println(power);
   }
 }
+
+//example of built in Math method

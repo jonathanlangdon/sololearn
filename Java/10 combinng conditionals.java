@@ -15,3 +15,5 @@ public class Program {
     System.out.println(message);
   }
 }
+
+//using else if with Conditionals 
