@@ -7,5 +7,4 @@ class Main {
     System.out.println((int)a);
   }  
 }
-	
-
+//casting converts from one type to another
