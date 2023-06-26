@@ -28,3 +28,5 @@ public class Player{
     }    
   }
 }
+
+//The enum allows you to define a set of named constants that can be used to represent a specific type of data. In this case, Difficulty serves as a custom type with three possible values.
