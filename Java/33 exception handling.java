@@ -16,3 +16,5 @@ public static void main(String[] args) {
     }
 }
 }
+
+// try and catch blocks allow for exception handling
