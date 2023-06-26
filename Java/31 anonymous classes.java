@@ -20,3 +20,5 @@ class Purchase {
         return price - (price*10)/100;
     }
 }
+
+//The anonymous class allows you to create a subclass on-the-fly without explicitly defining a new class.
