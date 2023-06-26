@@ -34,3 +34,5 @@ class HybridVehicle extends Vehicle{
         System.out.println("I use both petrol and electricity");
     }
 }
+
+// allows objects of different classes to be treated as instances of a common superclass 
