@@ -1,3 +1,5 @@
+// practice writing a function
+
 #include <iostream>
 using namespace std;
 
