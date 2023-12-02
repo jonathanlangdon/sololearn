@@ -58,3 +58,16 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+table {
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid #000000;
+  padding: 5px;
+}
+th {
+  background-color: #2f5a78;
+  color: #ffffff;
+}
