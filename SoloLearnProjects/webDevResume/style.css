@@ -8,11 +8,22 @@ h1 {
   line-height: 20px;
 }
 
+body {
+  font-family: Arial;
+  margin-top: 100px;
+}
 header {
   text-align: center;
   background-color: #eeeeee;
   padding-top: 2px;
   padding-bottom: 2px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.summary img {
+  float: right;
 }
 
 footer {
@@ -28,9 +39,6 @@ h2 {
   font-size: 20px;
   padding-bottom: 2px;
   border-bottom: 1px solid #2f5a78;
-}
-CSS body {
-  font-family: Arial;
 }
 
 #position {
